@@ -5,21 +5,18 @@
 </h1>
 <h3 align="center">Building production backend systems, database performance tools, and real-time concurrent infrastructure.</h3>
 <p align="center">
-  <a href="#about-me"><b>About</b></a> • 
-  <a href="#open-source"><b>Open Source</b></a> • 
-  <a href="#projects"><b>Projects</b></a> • 
-  <a href="#skills"><b>Skills</b></a> • 
-  <a href="#contact"><b>Contact</b></a>
+  <a href="https://www.linkedin.com/in/sudarshan-patil-hj259227/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:hjsudarshanpatil@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://sudarshan25092007.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://leetcode.com/Sudarshan_patil_h_j/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
 </p>
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Sudarshan25092007&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&rank=S,AAA,AA,A,B" alt="GitHub Trophies" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Sudarshan25092007&color=7aa2f7&style=for-the-badge&label=PROFILE+VIEWS" alt="Visitor Count" />
 </p>
 <h2 align="center" id="about-me">👤 About Me</h2>
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=7AA2F7&center=true&vCenter=true&width=800&lines=18-year-old+Backend+Infrastructure+Engineer.;6+merged+PRs+to+InsForge+(YC-backed,+12K+stars).;Specializing+in+Node.js,+TypeScript,+PostgreSQL,+Redis.;Security-focused:+XSS,+timing+attacks,+cache+stampede+prevention.;Studying+CS+@+BITS+Pilani+%2B+Scaler+School+of+Technology." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=7AA2F7&center=true&vCenter=true&width=800&lines=18-year-old+Backend+Infrastructure+Engineer.;7+merged+PRs+to+InsForge+(YC-backed,+12K+stars).;Specializing+in+Node.js,+TypeScript,+PostgreSQL,+Redis.;Security-focused:+XSS,+timing+attacks,+cache+stampede+prevention.;Studying+CS+@+BITS+Pilani+%2B+Scaler+School+of+Technology." alt="Typing SVG" />
   </a>
 </p>
 <blockquote align="center">
@@ -27,7 +24,6 @@
     <i>"I specialize in backend infrastructure — database performance optimization, security hardening, and real-time concurrent systems. I contribute to <b>InsForge</b> (YC-backed, 12K GitHub stars) where I've shipped production fixes for O(1) row counters, AI gateway token cost caps, cache stampede prevention, and stored XSS mitigation. Currently building a <b>real-time concurrent auction system</b> with Redis atomic operations and WebSocket pub/sub."</i>
   </p>
 </blockquote>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 <h2 align="center" id="open-source">🚀 Open Source</h2>
 <h3 align="center">InsForge — Backend Infrastructure Contributor</h3>
 <p align="center"><a href="https://github.com/InsForge/InsForge">github.com/InsForge/InsForge</a> • 12K+ Stars • YC-Backed</p>
@@ -40,6 +36,9 @@
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/Commits-39%2B-1a1b26?style=for-the-badge&logo=git&logoColor=9ECE6A" alt="Commits" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Security-Focused-red?style=for-the-badge&logo=owasp&logoColor=white" alt="Security" />
   </a>
 </p>
 <table align="center">
@@ -85,16 +84,15 @@
   </tr>
 </table>
 <p align="center"><i>Security: Stored XSS mitigation, timing attack fixes, OTP brute-force prevention, Deno secret export hardening</i></p>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 <h2 align="center" id="projects">🛠️ Projects</h2>
 <table align="center">
   <tr>
     <td width="50%" valign="top">
       <h3>🏏 IPL Mock Auction Platform</h3>
-      <p><b>Node.js • Redis • WebSockets • PostgreSQL</b></p>
+      <p><b>Node.js • Redis • WebSockets • PostgreSQL • Docker</b></p>
       <p>Real-time concurrent auction system with Redis atomic operations for race-condition-safe bid validation. Redis Pub/Sub for live bid broadcasting, sorted sets for leaderboard state management.</p>
       <p><b>Key Engineering:</b> SETNX atomic budget checks, 50-concurrent-bid stress testing, WebSocket reconnect logic, Docker Compose deployment.</p>
-      <p><a href="https://github.com/Sudarshan25092007/ipl-auction-app">Source Code</a></p>
+      <p><a href="https://github.com/Sudarshan25092007/ipl-auction-app">🔗 Source Code</a></p>
     </td>
     <td width="50%" valign="top">
       <h3>📊 XAUUSD High-Frequency Data Ingestion Engine</h3>
@@ -105,11 +103,8 @@
     </td>
   </tr>
 </table>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-<h2 align="center" id="skills">⚡ Tech Stack</h2>
-<p align="center">
-  <b>Languages</b><br><br>
-</p>
+<h2 align="center" id="skills">⚡ Tech Stack & Skills</h2>
+<h3 align="center">Languages</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
   <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
@@ -117,9 +112,7 @@
   <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
   <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="SQL" />
 </p>
-<p align="center">
-  <b>Backend & Infrastructure</b><br><br>
-</p>
+<h3 align="center">Backend & Infrastructure</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
   <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
@@ -128,20 +121,26 @@
   <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
   <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
   <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
 </p>
+<h3 align="center">Core Competencies</h3>
 <p align="center">
-  <b>Concepts</b><br><br>
-  <img src="https://img.shields.io/badge/REST%20APIs-1a1b26?style=for-the-badge" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/WebSockets-1a1b26?style=for-the-badge" alt="WebSockets" />
-  <img src="https://img.shields.io/badge/JWT%20Auth-1a1b26?style=for-the-badge" alt="JWT Auth" />
-  <img src="https://img.shields.io/badge/Database%20Triggers-1a1b26?style=for-the-badge" alt="DB Triggers" />
-  <img src="https://img.shields.io/badge/EXPLAIN%20ANALYZE-1a1b26?style=for-the-badge" alt="Query Optimization" />
-  <img src="https://img.shields.io/badge/Cache%20Stampede%20Prevention-1a1b26?style=for-the-badge" alt="Cache Patterns" />
-  <img src="https://img.shields.io/badge/Concurrent%20Systems-1a1b26?style=for-the-badge" alt="Concurrency" />
-  <img src="https://img.shields.io/badge/Security%20Hardening-1a1b26?style=for-the-badge" alt="Security" />
+  <img src="https://img.shields.io/badge/System%20Design-1a1b26?style=for-the-badge&color=9ECE6A" alt="System Design" />
+  <img src="https://img.shields.io/badge/Concurrent%20Systems-1a1b26?style=for-the-badge&color=7AA2F7" alt="Concurrent Systems" />
+  <img src="https://img.shields.io/badge/Security%20Hardening-1a1b26?style=for-the-badge&color=ff6b6b" alt="Security Hardening" />
+  <img src="https://img.shields.io/badge/Database%20Optimization-1a1b26?style=for-the-badge&color=bb9af7" alt="Database Optimization" />
+  <img src="https://img.shields.io/badge/REST%20APIs-1a1b26?style=for-the-badge&color=e0af68" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/WebSockets-1a1b26?style=for-the-badge&color=73daca" alt="WebSockets" />
+  <img src="https://img.shields.io/badge/JWT%20Auth-1a1b26?style=for-the-badge&color=ff9e64" alt="JWT Auth" />
+  <img src="https://img.shields.io/badge/Database%20Triggers-1a1b26?style=for-the-badge&color=b4f9f8" alt="DB Triggers" />
+  <img src="https://img.shields.io/badge/EXPLAIN%20ANALYZE-1a1b26?style=for-the-badge&color=ff007c" alt="Query Optimization" />
+  <img src="https://img.shields.io/badge/Cache%20Stampede%20Prevention-1a1b26?style=for-the-badge&color=7ee787" alt="Cache Patterns" />
+  <img src="https://img.shields.io/badge/Rate%20Limiting-1a1b26?style=for-the-badge&color=79c0ff" alt="Rate Limiting" />
+  <img src="https://img.shields.io/badge/CI%2FCD-1a1b26?style=for-the-badge&color=d2a8ff" alt="CI/CD" />
+  <img src="https://img.shields.io/badge/API%20Design-1a1b26?style=for-the-badge&color=ffa657" alt="API Design" />
+  <img src="https://img.shields.io/badge/OWASP%20Top%2010-1a1b26?style=for-the-badge&color=ff7b72" alt="OWASP" />
 </p>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-<h2 align="center">📊 The Code Analytics</h2>
+<h2 align="center">📊 GitHub Analytics</h2>
 <p align="center">
   <a href="https://github.com/Sudarshan25092007">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sudarshan25092007&theme=tokyo-night&hide_border=true&bg_color=1a1b26" alt="GitHub Activity Graph" width="100%" />
@@ -167,16 +166,13 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sudarshan25092007/Sudarshan25092007/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 <h2 align="center" id="contact">📫 Contact</h2>
 <p align="center">
   Open to backend engineering internships and open-source collaborations.<br><br>
   <a href="mailto:hjsudarshanpatil@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/sudarshan-patil-hj259227/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://sudarshan25092007.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" /></a>
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sudarshan25092007&color=7aa2f7&style=for-the-badge&label=PROFILE+VIEWS" alt="Visitor Count" />
+  <a href="https://leetcode.com/Sudarshan_patil_h_j/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 </p>
 <p align="center">
   <i>Backend Infrastructure Engineer • Node.js • TypeScript • PostgreSQL • Redis</i><br>
