@@ -29,13 +29,13 @@
 <p align="center"><a href="https://github.com/InsForge/InsForge">github.com/InsForge/InsForge</a> • 12K+ Stars • YC-Backed</p>
 <p align="center">
   <a href="https://github.com/InsForge/InsForge/pulls?q=is%3Apr+author%3ASudarshan25092007+is%3Amerged">
-    <img src="https://img.shields.io/badge/Merged%20PRs-7-9ECE6A?style=for-the-badge&logo=github&logoColor=white" alt="Merged PRs" />
+    <img src="https://img.shields.io/badge/Merged%20PRs-8-9ECE6A?style=for-the-badge&logo=github&logoColor=white" alt="Merged PRs" />
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/Contributor%20Rank-%237-7AA2F7?style=for-the-badge&logo=github&logoColor=white" alt="Contributor Rank" />
+    <img src="https://img.shields.io/badge/Contributor%20Rank-%236-7AA2F7?style=for-the-badge&logo=github&logoColor=white" alt="Contributor Rank" />
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/Commits-39%2B-1a1b26?style=for-the-badge&logo=git&logoColor=9ECE6A" alt="Commits" />
+    <img src="https://img.shields.io/badge/Commits-58%2B-1a1b26?style=for-the-badge&logo=git&logoColor=9ECE6A" alt="Commits" />
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/Security-Focused-red?style=for-the-badge&logo=owasp&logoColor=white" alt="Security" />
@@ -82,8 +82,13 @@
     <td>Deno global type safety, OAuth AppError standardization, OpenAPI sunset headers</td>
     <td>Type Safety, OAuth, API Design</td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/InsForge/InsForge/pull/1660">#1660</a></td>
+    <td>Fixed the timing attack issue for admin auth using crypto.timingSafeEqual() </td>
+    <td>Auth, Security, Attack Prevention</td>
+  </tr>
 </table>
-<p align="center"><i>Security: Stored XSS mitigation, timing attack fixes, OTP brute-force prevention, Deno secret export hardening</i></p>
+<!-- <p align="center"><i>Security: Stored XSS mitigation, timing attack fixes, OTP brute-force prevention, Deno secret export hardening</i></p> -->
 <h2 align="center" id="projects">🛠️ Projects</h2>
 <table align="center">
   <tr>
