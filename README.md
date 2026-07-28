@@ -29,7 +29,7 @@
 <p align="center"><a href="https://github.com/InsForge/InsForge">github.com/InsForge/InsForge</a> • 12.3K+ Stars • YC-Backed</p>
 <p align="center">
   <a href="https://github.com/InsForge/InsForge/pulls?q=is%3Apr+author%3ASudarshan25092007+is%3Amerged">
-    <img src="https://img.shields.io/badge/Merged%20PRs-8-9ECE6A?style=for-the-badge&logo=github&logoColor=white" alt="Merged PRs" />
+    <img src="https://img.shields.io/badge/Merged%20PRs-9-9ECE6A?style=for-the-badge&logo=github&logoColor=white" alt="Merged PRs" />
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/Contributor%20Rank-%236-7AA2F7?style=for-the-badge&logo=github&logoColor=white" alt="Contributor Rank" />
