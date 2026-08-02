@@ -16,7 +16,7 @@
 <h2 align="center" id="about-me">👤 About Me</h2>
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=7AA2F7&center=true&vCenter=true&width=800&lines=18-year-old+Backend+Infrastructure+Engineer.;8+merged+PRs+to+InsForge+(YC-backed,+12.3K+stars).;Specializing+in+Node.js,+TypeScript,+PostgreSQL,+Redis.;Security-focused:+XSS,+timing+attacks,+cache+stampede+prevention.;Studying+CS+@+BITS+Pilani+%2B+Scaler+School+of+Technology." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=7AA2F7&center=true&vCenter=true&width=800&lines=18-year-old+Backend+Infrastructure+Engineer.;10+merged+PRs+to+InsForge+(YC-backed,+12.3K+stars).;Specializing+in+Node.js,+TypeScript,+PostgreSQL,+Redis.;Security-focused:+XSS,+timing+attacks,+cache+stampede+prevention.;Studying+CS+@+BITS+Pilani+%2B+Scaler+School+of+Technology." alt="Typing SVG" />
   </a>
 </p>
 <blockquote align="center">
@@ -29,7 +29,7 @@
 <p align="center"><a href="https://github.com/InsForge/InsForge">github.com/InsForge/InsForge</a> • 12.3K+ Stars • YC-Backed</p>
 <p align="center">
   <a href="https://github.com/InsForge/InsForge/pulls?q=is%3Apr+author%3ASudarshan25092007+is%3Amerged">
-    <img src="https://img.shields.io/badge/Merged%20PRs-9-9ECE6A?style=for-the-badge&logo=github&logoColor=white" alt="Merged PRs" />
+    <img src="https://img.shields.io/badge/Merged%20PRs-10-9ECE6A?style=for-the-badge&logo=github&logoColor=white" alt="Merged PRs" />
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/Contributor%20Rank-%236-7AA2F7?style=for-the-badge&logo=github&logoColor=white" alt="Contributor Rank" />
@@ -86,6 +86,16 @@
     <td><a href="https://github.com/InsForge/InsForge/pull/1660">#1660</a></td>
     <td>Fixed the timing attack issue for admin auth using crypto.timingSafeEqual() </td>
     <td>Auth, Security, Attack Prevention</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/InsForge/InsForge/pull/1807">#1807</a></td>
+    <td>Binded internal database and runtime ports to localhost </td>
+    <td>Security, Infra</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/InsForge/InsForge/pull/1811">#1811</a></td>
+    <td>Secures cloud-deploy compose and bind unused auth port </td>
+    <td>Security, Infra</td>
   </tr>
 </table>
 <!-- <p align="center"><i>Security: Stored XSS mitigation, timing attack fixes, OTP brute-force prevention, Deno secret export hardening</i></p> -->
