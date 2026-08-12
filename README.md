@@ -17,12 +17,12 @@
 <h2 align="center" id="about-me">👤 About Me</h2>
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=7AA2F7&center=true&vCenter=true&width=800&lines=18-year-old+Backend+Infrastructure+Engineer.;10+merged+PRs+to+InsForge+(YC-backed,+12.6K+stars).;Contributor+to+Apicurio+Registry,+a+CNCF+Sandbox+project.;Security-focused%3A+XSS,+timing+attacks,+auth+gaps.;Studying+CS+%40+BITS+Pilani+%2B+Scaler+School+of+Technology." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=7AA2F7&center=true&vCenter=true&width=800&lines=18-year-old+Backend+Infrastructure+Engineer.;10+merged+PRs+to+InsForge+(YC-backed,+12.7K+stars).;Contributor+to+Apicurio+Registry,+a+CNCF+Sandbox+project.;Security-focused%3A+XSS,+timing+attacks,+auth+gaps.;Studying+CS+%40+BITS+Pilani+%2B+Scaler+School+of+Technology." alt="Typing SVG" />
   </a>
 </p>
 <blockquote align="center">
   <p>
-    <i>"I specialize in backend infrastructure — database performance, security hardening, and real-time concurrent systems. I contribute to <b>InsForge</b> (YC-backed, 12.6K GitHub stars), where I've shipped fixes for O(1) row counters, AI gateway token caps, cache stampede prevention, and stored XSS mitigation — and to <b>Apicurio Registry</b>, a CNCF Sandbox project, where I'm fixing correctness and authorization gaps in the MCP tool subsystem. Currently building a <b>real-time concurrent auction system</b> with Redis atomic operations and WebSocket pub/sub."</i>
+    <i>"I specialize in backend infrastructure — database performance, security hardening, and real-time concurrent systems. I contribute to <b>InsForge</b> (YC-backed, 12.7K GitHub stars), where I've shipped fixes for O(1) row counters, AI gateway token caps, cache stampede prevention, and stored XSS mitigation — and to <b>Apicurio Registry</b>, a CNCF Sandbox project, where I'm fixing correctness and authorization gaps in the MCP tool subsystem. Currently building a <b>real-time concurrent auction system</b> with Redis atomic operations and WebSocket pub/sub."</i>
   </p>
 </blockquote>
 
@@ -53,7 +53,7 @@
 </table>
 
 <h3 align="center">InsForge — Backend Infrastructure Contributor</h3>
-<p align="center"><a href="https://github.com/InsForge/InsForge">github.com/InsForge/InsForge</a> • 12.6K+ Stars • YC-Backed</p>
+<p align="center"><a href="https://github.com/InsForge/InsForge">github.com/InsForge/InsForge</a> • 12.7K+ Stars • YC-Backed</p>
 <p align="center">
   <a href="https://github.com/InsForge/InsForge/pulls?q=is%3Apr+author%3ASudarshan25092007+is%3Amerged">
     <img src="https://img.shields.io/badge/Merged%20PRs-10-9ECE6A?style=for-the-badge&logo=github&logoColor=white" alt="Merged PRs" />
