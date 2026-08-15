@@ -3,37 +3,57 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=9ECE6A&center=true&vCenter=true&width=700&lines=Hi,+I'm+Sudarshan+Patil+H+J;Backend+Infrastructure+Engineer;Open+Source+Contributor+@+InsForge+%2B+Apicurio;Node.js+%C2%B7+TypeScript+%C2%B7+Java+%C2%B7+PostgreSQL+%C2%B7+Redis" alt="Typing SVG" />
   </a>
 </h1>
+
 <h3 align="center">Building production backend systems, database performance tools, and real-time concurrent infrastructure.</h3>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/sudarshan-patil-hj259227/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:hjsudarshanpatil@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://sudarshan25092007.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
   <a href="https://leetcode.com/Sudarshan_patil_h_j/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
 </p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sudarshan25092007&color=7aa2f7&style=for-the-badge&label=PROFILE+VIEWS" alt="Visitor Count" />
 </p>
 
 <h2 align="center" id="about-me">👤 About Me</h2>
+
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=7AA2F7&center=true&vCenter=true&width=800&lines=18-year-old+Backend+Infrastructure+Engineer.;10+merged+PRs+to+InsForge+(YC-backed,+12.7K+stars).;Contributor+to+Apicurio+Registry,+a+CNCF+Sandbox+project.;Security-focused%3A+XSS,+timing+attacks,+auth+gaps.;Studying+CS+%40+BITS+Pilani+%2B+Scaler+School+of+Technology." alt="Typing SVG" />
   </a>
 </p>
+
 <blockquote align="center">
   <p>
     <i>"I specialize in backend infrastructure — database performance, security hardening, and real-time concurrent systems. I contribute to <b>InsForge</b> (YC-backed, 12.7K GitHub stars), where I've shipped fixes for O(1) row counters, AI gateway token caps, cache stampede prevention, and stored XSS mitigation — and to <b>Apicurio Registry</b>, a CNCF Sandbox project, where I'm fixing correctness and authorization gaps in the MCP tool subsystem. Currently building a <b>real-time concurrent auction system</b> with Redis atomic operations and WebSocket pub/sub."</i>
   </p>
 </blockquote>
 
+<h2 align="center" id="education">Education</h2>
+
+<p align="center">
+  <b>Scaler School of Technology — Computer Science & AI</b><br>
+  2025 – 2029 • Bengaluru, India
+</p>
+
+<p align="center">
+  <b>BITS Pilani — Bachelor of Science (Hons), Computer Science</b><br>
+  2025 – 2029 • Online / Distance Learning
+</p>
+
 <h2 align="center" id="open-source">🚀 Open Source</h2>
 
 <h3 align="center">Apicurio Registry (CNCF) — Contributor</h3>
+
 <p align="center"><a href="https://github.com/Apicurio/apicurio-registry">github.com/Apicurio/apicurio-registry</a> • CNCF Sandbox Project • Java / Quarkus</p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/CNCF-Sandbox%20Project-419EDA?style=for-the-badge&logo=cloudnativecomputingfoundation&logoColor=white" alt="CNCF" />
   <img src="https://img.shields.io/badge/Focus-MCP%20Tool%20Subsystem-9ECE6A?style=for-the-badge&logo=github&logoColor=white" alt="MCP Focus" />
 </p>
+
 <table align="center">
   <tr>
     <td align="center"><b>PR / Issue</b></td>
@@ -53,7 +73,9 @@
 </table>
 
 <h3 align="center">InsForge — Backend Infrastructure Contributor</h3>
+
 <p align="center"><a href="https://github.com/InsForge/InsForge">github.com/InsForge/InsForge</a> • 12.7K+ Stars • YC-Backed</p>
+
 <p align="center">
   <a href="https://github.com/InsForge/InsForge/pulls?q=is%3Apr+author%3ASudarshan25092007+is%3Amerged">
     <img src="https://img.shields.io/badge/Merged%20PRs-10-9ECE6A?style=for-the-badge&logo=github&logoColor=white" alt="Merged PRs" />
@@ -68,6 +90,7 @@
     <img src="https://img.shields.io/badge/Security-Focused-red?style=for-the-badge&logo=owasp&logoColor=white" alt="Security" />
   </a>
 </p>
+
 <table align="center">
   <tr>
     <td align="center"><b>PR</b></td>
@@ -126,7 +149,18 @@
   </tr>
 </table>
 
+<h3 align="center">PyChem-Pro — Contributor</h3>
+
+<p align="center">
+  <a href="https://github.com/vijayamsand/PyChem-Pro">github.com/vijayamsand/PyChem-Pro</a> • Open Source
+</p>
+
+<p align="center">
+  Refactored a shared discrete-calculation module used as a molecular simulation force field, replacing direct private-field access with a public accessor method.
+</p>
+
 <h2 align="center" id="projects">🛠️ Projects</h2>
+
 <table align="center">
   <tr>
     <td width="50%" valign="top">
@@ -146,8 +180,19 @@
   </tr>
 </table>
 
+<h2 align="center" id="achievements">Achievements</h2>
+
+<p align="center">
+  <b>10</b> merged pull requests into InsForge •
+  <b>Active contributor</b> to Apicurio Registry •
+  <b>Selected Contributor</b> — GirlScript Summer of Code 2026 •
+  <b>Amazon SDE-I Online Assessment</b> — Invited via Amazon University Talent Acquisition
+</p>
+
 <h2 align="center" id="skills">⚡ Tech Stack & Skills</h2>
+
 <h3 align="center">Languages</h3>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
   <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
@@ -155,7 +200,9 @@
   <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
   <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="SQL" />
 </p>
+
 <h3 align="center">Backend & Infrastructure</h3>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
   <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
@@ -166,7 +213,9 @@
   <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
   <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
 </p>
+
 <h3 align="center">Core Competencies</h3>
+
 <p align="center">
   <img src="https://img.shields.io/badge/System%20Design-1a1b26?style=for-the-badge&color=9ECE6A" alt="System Design" />
   <img src="https://img.shields.io/badge/Concurrent%20Systems-1a1b26?style=for-the-badge&color=7AA2F7" alt="Concurrent Systems" />
@@ -185,24 +234,29 @@
 </p>
 
 <h2 align="center">📊 GitHub Analytics</h2>
+
 <p align="center">
   <a href="https://github.com/Sudarshan25092007">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sudarshan25092007&theme=tokyo-night&hide_border=true&bg_color=1a1b26" alt="GitHub Activity Graph" width="100%" />
   </a>
 </p>
+
 <p align="center">
   <a href="https://github.com/Sudarshan25092007">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sudarshan25092007&theme=tokyonight" alt="GitHub Profile Summary" />
   </a>
 </p>
+
 <p align="center">
   <a href="https://github.com/Sudarshan25092007">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sudarshan25092007&theme=tokyonight&hide_border=true&background=1a1b26" alt="GitHub Streak" />
   </a>
 </p>
+
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Sudarshan_patil_h_j?theme=tokyonight&font=Fira%20Code&ext=activity" alt="LeetCode Stats" />
 </p>
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sudarshan25092007/Sudarshan25092007/output/github-contribution-grid-snake-dark.svg">
@@ -212,6 +266,7 @@
 </p>
 
 <h2 align="center" id="contact">📫 Contact</h2>
+
 <p align="center">
   Open to backend engineering internships and open-source collaborations.<br><br>
   <a href="mailto:hjsudarshanpatil@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -219,6 +274,7 @@
   <a href="https://sudarshan25092007.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" /></a>
   <a href="https://leetcode.com/Sudarshan_patil_h_j/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 </p>
+
 <p align="center">
   <i>Backend Infrastructure Engineer • Node.js • TypeScript • Java • PostgreSQL • Redis</i><br>
   <i>© 2026 Sudarshan Patil. All rights reserved.</i>
