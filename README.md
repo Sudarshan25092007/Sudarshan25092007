@@ -27,8 +27,8 @@
 <!-- ATTENTION GRABBER -->
 <p align="center">
   <img src="https://img.shields.io/badge/🔥%20Validate%20Before%20Implementing-Always-ff6b6b?style=for-the-badge&labelColor=1a1b26" alt="Validate Before Implementing" />
-  <img src="https://img.shields.io/badge/🎯%20Architecture%20Redirect%20Survived-3%20Review%20Rounds-9ECE6A?style=for-the-badge&labelColor=1a1b26" alt="Review Rounds" />
-  <img src="https://img.shields.io/badge/🛡️%20Security%20First-Timing%20Safe%20%7C%20XSS%20Hardened-7AA2F7?style=for-the-badge&labelColor=1a1b26" alt="Security First" />
+  <br>
+  <img src="https://img.shields.io/badge/🎯%20Architecture%20Redirect%20Survived-several%20Review%20Rounds-9ECE6A?style=for-the-badge&labelColor=1a1b26" alt="Review Rounds" />
 </p>
 <blockquote align="center">
   <p><i>"When a maintainer redirected my entire PR architecture mid-review, I didn't argue — I absorbed it, filed a new issue, and rebuilt it cleaner. That's the pattern."</i></p>
