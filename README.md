@@ -71,10 +71,10 @@
     <td>Java, JSON Schema, Architecture</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/Apicurio/apicurio-registry/pull/9368">#9368</a></td>
-    <td>Implemented the redirect: relocated checker across Maven modules to resolve circular dependency, replaced ~170 lines of shallow checks with library delegation, corrected 5 false-positive tests. Non-object schema guards, open/closed schema narrowing, and Draft 2020-12 compatibility handled. <b>Approved by paoloantinori</b>; awaiting final maintainer sign-off.</td>
+    <td><a href="https://github.com/Apicurio/apicurio-registry/pull/9368">#9368</a> (closed)</td>
+    <td>Implemented the redirect: relocated checker across Maven modules to resolve circular dependency, replaced ~170 lines of shallow checks with library delegation, corrected 5 false-positive tests. Non-object schema guards, open/closed schema narrowing, and Draft 2020-12 compatibility handled. <b>Approved by paoloantinori</b>; closed by maintainer carlesarnal as "reserved for the LFX term" — confirming the work maps directly onto the mentorship scope.</td>
     <td>Java, Quarkus, Maven, JSON Schema</td>
-  </tr>
+</tr>
 </table>
 <h3 align="center">InsForge — Backend Infrastructure Contributor</h3>
 <p align="center"><a href="https://github.com/InsForge/InsForge">github.com/InsForge/InsForge</a> • 12.7K+ Stars • YC-Backed</p>
