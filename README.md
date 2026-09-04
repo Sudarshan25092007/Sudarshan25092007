@@ -43,6 +43,44 @@
   2025 – 2029 • Online / Distance Learning
 </p>
 <h2 align="center" id="open-source">🚀 Open Source</h2>
+
+<h3 align="center">Reticle (AI Agent Verification Layer) — Active Contributor</h3>
+<p align="center"><a href="https://github.com/reticlehq/reticle">github.com/reticlehq/reticle</a> • EF F26 • TypeScript</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/EF-Fall%202026-419EDA?style=for-the-badge&logo=cloudnativecomputingfoundation&logoColor=white" alt="EF" />
+  <img src="https://img.shields.io/badge/Focus-MCP%20%2F%20Verification%20Layer-9ECE6A?style=for-the-badge&logo=github&logoColor=white" alt="MCP Focus" />
+</p>
+<table align="center">
+  <tr>
+    <td align="center"><b>PR / Issue</b></td>
+    <td align="center"><b>What It Does</b></td>
+    <td align="center"><b>Status</b></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/reticlehq/reticle/pull/439">#439</a></td>
+    <td>Fixed benchmark harness on Windows: platform-conditional spawn (<code>pnpm.cmd</code>, <code>detached: false</code>, <code>windowsHide</code>), process tree teardown via <code>taskkill</code></td>
+    <td>✅ Merged</td>
+  </tr>
+
+  <tr>
+    <td><a href="https://github.com/reticlehq/reticle/pull/570">#570</a></td>
+    <td>MCP tool profiler harness: boots fixtures, discovers all tools via <code>tools/list</code>, profiles 30 tools, records latency/errors/bytes/tokens, writes JSON + Markdown baseline</td>
+    <td>✅ Merged in v2.12.0</td>
+  </tr>
+
+  <tr>
+    <td><a href="https://github.com/reticlehq/reticle/issues/118">#118</a> Gate</td>
+    <td>Regression gate enforcing categorical invariants (errors, timeouts, crashes, payload bytes). Latency reported as advisory (non-blocking) per maintainer review. Script disambiguation: <code>bench</code> vs <code>bench</code></td>
+    <td>⏳ In Review</td>
+  </tr>
+
+  <tr>
+    <td><a href="https://github.com/reticlehq/reticle/issues/599">#599</a></td>
+    <td><code>seedStorage</code> on <code>reticle_lease</code>: seed auth tokens before first navigation so agents start authenticated without OTP flows</td>
+    <td>⏳ In Review</td>
+  </tr>
+</table>
+
 <h3 align="center">Apicurio Registry (CNCF) — Contributor</h3>
 <p align="center"><a href="https://github.com/Apicurio/apicurio-registry">github.com/Apicurio/apicurio-registry</a> • CNCF Sandbox Project • Java / Quarkus</p>
 <p align="center">
