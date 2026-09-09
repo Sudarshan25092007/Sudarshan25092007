@@ -45,41 +45,48 @@
 <h2 align="center" id="open-source">🚀 Open Source</h2>
 
 <h3 align="center">Reticle (AI Agent Verification Layer) — Active Contributor</h3>
-<p align="center"><a href="https://github.com/reticlehq/reticle">github.com/reticlehq/reticle</a> • EF F26 • TypeScript</p>
 <p align="center">
-  <img src="https://img.shields.io/badge/EF-Fall%202026-419EDA?style=for-the-badge&logo=cloudnativecomputingfoundation&logoColor=white" alt="EF" />
-  <img src="https://img.shields.io/badge/Focus-MCP%20%2F%20Verification%20Layer-9ECE6A?style=for-the-badge&logo=github&logoColor=white" alt="MCP Focus" />
+  <a href="https://github.com/reticlehq/reticle">
+    <img src="https://shields.io" alt="Repository" />
+  </a>
+  <img src="https://shields.io" alt="CNCF / EF Cohort" /> 
+  <img src="https://shields.io" alt="MCP Focus" />
 </p>
-<table align="center">
-  <tr>
-    <td align="center"><b>PR / Issue</b></td>
-    <td align="center"><b>What It Does</b></td>
-    <td align="center"><b>Status</b></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/reticlehq/reticle/pull/439">#439</a></td>
-    <td>Fixed benchmark harness on Windows: platform-conditional spawn (<code>pnpm.cmd</code>, <code>detached: false</code>, <code>windowsHide</code>), process tree teardown via <code>taskkill</code></td>
-    <td>✅ Merged</td>
-  </tr>
 
-  <tr>
-    <td><a href="https://github.com/reticlehq/reticle/pull/570">#570</a></td>
-    <td>MCP tool profiler harness: boots fixtures, discovers all tools via <code>tools/list</code>, profiles 30 tools, records latency/errors/bytes/tokens, writes JSON + Markdown baseline</td>
-    <td>✅ Merged in v2.12.0</td>
-  </tr>
+<div align="center">
+  <table width="90%">
+    <thead>
+      <tr>
+        <th align="center" width="20%">🚀 PR / Issue</th>
+        <th align="left" width="60%">🔧 Core Contribution & Engineering Scope</th>
+        <th align="center" width="20%">📊 Status</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center"><a href="https://github.com/reticlehq/reticle/pull/439"><b>#439</b></a></td>
+        <td align="left"><b>Windows Benchmark Harness Compatibility:</b> Engineered platform-conditional child process spawns (<code>pnpm.cmd</code>, <code>detached: false</code>, <code>windowsHide</code>) and established robust <code>taskkill</code> process tree teardown to enable cross-platform execution parity.</td>
+        <td align="center">🟢 <b>Merged</b></td>
+      </tr>
+      <tr>
+        <td align="center"><a href="https://github.com/reticlehq/reticle/pull/570"><b>#570</b></a></td>
+        <td align="left"><b>MCP Tool Profiler Harness:</b> Automated runtime tool analysis by orchestrating fixture boots, dynamic tool discovery via <code>tools/list</code>, and non-destructive execution sweeps across 30+ tools. Writes granular telemetry (latency, errors, bytes, token consumption) to raw JSON and human-readable Markdown baselines.</td>
+        <td align="center">🟢 <b>Merged (v2.12.0)</b></td>
+      </tr>
+      <tr>
+        <td align="center"><a href="https://github.com"><b>#580</b></a> / <a href="https://github.com/reticlehq/reticle/issues/118"><b>#118</b></a></td>
+        <td align="left"><b>CI Regression Budget Gate:</b> Built a validation layer enforcing strict categorical invariants (timeouts, crashes, payload budgets). Implemented non-blocking advisory latency run indicators alongside explicit <code>pnpm bench:gate</code> runner handling per review specifications.</td>
+        <td align="center">🟢 <b>Merged</b></td>
+      </tr>
+      <tr>
+        <td align="center"><a href="https://github.com"><b>#735</b></a> / <a href="https://github.com/reticlehq/reticle/issues/599"><b>#599</b></a></td>
+        <td align="left"><b>State Injected Authentication:</b> Designed an opt-in <code>seedStorage</code> interface for the core <code>reticle_lease</code> engine, enabling agents to pre-populate authentication payloads (tokens, cookies) prior to initial navigation—bypassing tedious database and manual OTP verification cycles.</td>
+        <td align="center">🟢 <b>Merged</b></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
-  <tr>
-    <td><a href="https://github.com/reticlehq/reticle/issues/118">#118</a> Gate</td>
-    <td>Regression gate enforcing categorical invariants (errors, timeouts, crashes, payload bytes). Latency reported as advisory (non-blocking) per maintainer review. Script disambiguation: <code>bench</code> vs <code>bench</code></td>
-    <td>⏳ In Review</td>
-  </tr>
-
-  <tr>
-    <td><a href="https://github.com/reticlehq/reticle/issues/599">#599</a></td>
-    <td><code>seedStorage</code> on <code>reticle_lease</code>: seed auth tokens before first navigation so agents start authenticated without OTP flows</td>
-    <td>⏳ In Review</td>
-  </tr>
-</table>
 
 <h3 align="center">Apicurio Registry (CNCF) — Contributor</h3>
 <p align="center"><a href="https://github.com/Apicurio/apicurio-registry">github.com/Apicurio/apicurio-registry</a> • CNCF Sandbox Project • Java / Quarkus</p>
