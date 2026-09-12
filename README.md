@@ -1,7 +1,7 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=9ECE6A&center=true&vCenter=true&width=850&height=60&lines=Hi,+I'm+Sudarshan+Patil+H+J;Backend+Infrastructure+Engineer;Open+Source+Contributor+%40+Reticle+%2B+InsForge+%2B+Apicurio;Node.js+%C2%B7+TypeScript+%C2%B7+Java+%C2%B7+PostgreSQL+%C2%B7+Redis"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=9ECE6A&center=true&vCenter=true&width=900&height=60&lines=Hi,+I'm+Sudarshan+Patil+H+J;Backend+Infrastructure+Engineer;Open+Source+Contributor+%40+Reticle+%2B+InsForge+%2B+Apicurio;Node.js+%C2%B7+TypeScript+%C2%B7+Java+%C2%B7+PostgreSQL+%C2%B7+Redis"
       alt="Sudarshan's GitHub Typing SVG"
     />
   </a>
