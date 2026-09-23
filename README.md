@@ -241,6 +241,7 @@ Key Engineering
 - Stress-tested concurrent bidding behavior.
 
 🔗 [Source Code](https://github.com/Sudarshan25092007/ipl-auction-app)
+🔗 [Live at](https://ipl-auction-app-frontend.vercel.app/)
 
 <h3>📊 XAUUSD High-Frequency Market Data Ingestion Engine</h3> <p> <b>Python • TCP • PostgreSQL • Docker • MetaTrader 5</b> </p> <p> An event-driven backend system bridging MetaTrader 5 with a stateful Python processing engine for high-frequency market telemetry. </p>
 Architecture
