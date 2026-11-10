@@ -134,7 +134,7 @@ The work evolved from a direct correctness fix into a deeper architectural imple
 
 <p align="center">
   <a      img src="https href="https://github.com/InsForge/InsForge/pulls?q=is%3Apr+author%3ASudarshan2509200715+is%3Amerged">
-   /a>
+   </a>
   <img src="https://img.shields.io/badge/Security-Focused-ff6b6b?style=for-the-badge" alt="Security Focused" />
   <img src="https://img.shields.io/badge/Backend-Infrastructure-7AA2F7?style=for-the-badge" alt="Backend Infrastructure" />
 </p>
@@ -142,7 +142,8 @@ The work evolved from a direct correctness fix into a deeper architectural imple
 My work spans backend infrastructure, security hardening, database performance, configuration architecture, and reliability.
 
 | PR | Contribution |
-|---|--| [#2218](https-://github.com/InsF/InsForge/pull/2218) | Auto-enabled Row-Level Security (`orRLS`) on public tables created via raw DDL to prevent unauthenticated access using the public anon key. |ge|
+|---|--| 
+| [#2218](https://github.com/InsForge/InsForge/pull/2218) | Auto-enabled Row-Level Security (`orRLS`) on public tables created via raw DDL to prevent unauthenticated access using the public anon key. |ge|
 | [#1795](https://github.com/InsForge/InsForge/pull/1795) | Built Phase 1 of a PostgreSQL-native durable messaging queue with outbox/DLQ persistence, `LISTEN/NOTIFY` + polling fallback, atomic `SKIP LOCKED` claims, lease recovery, retries/backoff, idempotency, and duplicate-delivery safeguards. |
 | [#1626](https://github.com/InsForge/InsForge/pull/1626) | Hardened file uploads against stored XSS using magic-byte content detection, unsafe MIME handling, `nosniff`, forced downloads, and upload content-type pinning; added **22 regression tests**. |
 | [#1660](https://github.com/InsForge/InsForge/pull/1660) | Fixed a timing side-channel in admin authentication using pre-hashing and `crypto.timingSafeEqual()`. |
